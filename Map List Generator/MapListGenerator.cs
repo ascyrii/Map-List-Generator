@@ -26,8 +26,6 @@ namespace Map_List_Generator
                 string temp = file.Name.Replace(".bsp", "");
                 write.WriteLine(temp);
             }
-
-            Thread.Sleep(10);
             Console.Beep();
         }
     }
