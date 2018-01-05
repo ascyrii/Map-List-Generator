@@ -5,3 +5,4 @@ Throw this in the folder with all the maps in .bsp format
 run it
 ???
 mapcycle.txt generated
+
